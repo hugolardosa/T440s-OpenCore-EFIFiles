@@ -1,0 +1,1 @@
+Based on [Sniki T440s Repository](https://github.com/Sniki/Lenovo-Thinkpad-T440S) adjusted for optimal performance on my PC
